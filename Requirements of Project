@@ -1,15 +1,18 @@
 Sign up/in
-delailing:-
-  profile:-Message->Any one can  message.
+Detailing:-
+  profile:-Message-> Anyone can  message to their connected member.
   profile detailing:- Passing year,
                       Name,
                       Course,
                       University campus[deemed ,hill, bhimtal] 
                       Achievements and tech skills.
-                      *The Person's request is accepted can see the email of that person to which he/she follows.
+                      *The Person's request is accepted and can see the email of that person to which he/she follows.
 Section:-
 1.)projects
+  1.1.) Project title-[creator,desc,tech used,source code,link,mode[working or to participate or for viewing only]
 2.)Doubt
-3.)Connections
-4.)POTD (Section)
-5.)Work Experience -(Inetrnship And Placement)
+3.)Connections(Connection request)
+4.)POTD (Section)--(Future)
+5.)Work Experience -(Internship,Interview And Placement)
+6.)Feed
+7.)Groups(Coding , Dance ,etc[dekh lenge]);
